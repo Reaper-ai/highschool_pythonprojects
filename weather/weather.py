@@ -6,7 +6,7 @@ import json
 import pytz
 from tkinter import *
 from ttkbootstrap.constants import *
-key = '76ed5550888846929c9144437231904'
+key = 'paste your api key hare'
 
 font =('poppins', 15, 'bold')
 
