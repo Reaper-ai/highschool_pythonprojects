@@ -12,8 +12,8 @@ collection of my python project
 ## 2. [flappy bird clone](flappy)
 - about -> the name sums it up
 - learning -> game development in python
-- > [!note]
-  > sfx used are open source. images are made by myself please mention creits if you use them in your projects 🙂
+> [!Note]
+> sfx used are open source. images are made by myself please mention creits if you use them in your projects 🙂
 
 ## 3. [tic tac toe](tic_tac_toe)
 - about -> there are two versions, a gui based and a terminal based
@@ -28,9 +28,11 @@ collection of my python project
 ## 5. [music charts](music_charts)
 - about -> shows top 10 songson spotify, globally and a selected region of my choice
 - learning -> web scrapping
-- > [!Note] -> spotify may change its website often, most probably the program won't run
+> [!Note]
+> spotify may change its website often, most probably the program won't run
 
 ## 6. [weather app](weather)
 - about -> shows current weather of the place you want, additionally can also show a 3 day forcast
 - learning -> api integration
-- > [!note] -> if you want to use it use your own _api key_. 
+> [!Note]
+> if you want to use it use your own _api key_. 
