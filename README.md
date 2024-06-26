@@ -12,7 +12,8 @@ collection of my python project
 ## 2. [flappy bird clone](flappy)
 - about -> the name sums it up
 - learning -> game development in python
-- > [!note] -> sfx used are open source. images are made by myself please mention creits if you use them in your projects 🙂
+- > [!note]
+  > sfx used are open source. images are made by myself please mention creits if you use them in your projects 🙂
 
 ## 3. [tic tac toe](tic_tac_toe)
 - about -> there are two versions, a gui based and a terminal based
