@@ -3,7 +3,7 @@ collection of my python project
 
 ## 1. [bakery management system](bakery_mng_sys)
 - about -> my class 12th boards project 😄, a gui based system to manage evrything in a bakery.
-- features -> - maintain employ record _(for admin)_ /n
+- features -> - maintain employ record _(for admin)_ <br>
               - maintain inventory _(for admin)_ \n
               - update menu _(for admin)_
               - customer can also place order
