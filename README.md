@@ -8,7 +8,7 @@ collection of my python project
    - maintain inventory _(for admin)_
    - update menu _(for admin)_ 
    - customer can also place order
-- learning -> python - database integration
+- learning -> python-database integration
 
 ## 2. [flappy bird clone](flappy)
 - about -> the name sums it up
