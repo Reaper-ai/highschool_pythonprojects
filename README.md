@@ -2,9 +2,9 @@
 collection of my python project
 
 ## 1. [bakery management system](bakery_mng_sys)
-- about -> my class 12th boards project 😄, a gui based system to manage evrything in a bakery.
+- about -> my class 12th boards project 😄, a gui based system to manage everything in a bakery.
 - features -> - maintain employ record _(for admin)_ <br>
-              - maintain inventory _(for admin)_ <br>
+ &nbsp;        - maintain inventory _(for admin)_ <br>
               - update menu _(for admin)_<br>
               - customer can also place order<br>
 - learning -> python - database integration
@@ -13,7 +13,7 @@ collection of my python project
 - about -> the name sums it up
 - learning -> game development in python
 > [!Note]
-> sfx used are open source. images are made by myself please mention creits if you use them in your projects 🙂
+> sfx used are open source. images are made by myself please mention credits if you use them in your projects 🙂
 
 ## 3. [tic tac toe](tic_tac_toe)
 - about -> there are two versions, a gui based and a terminal based
