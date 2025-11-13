@@ -13,8 +13,6 @@ collection of my python project
 ## 2. [flappy bird clone](flappy)
 - about -> the name sums it up
 - learning -> game development in python
-> [!Note]
-> sfx used are open source. images are made by myself, please mention credits if you use them in your projects 🙂
 
 ## 3. [tic tac toe](tic_tac_toe)
 - about -> there are two versions, a gui based and a terminal based
@@ -38,5 +36,4 @@ collection of my python project
 - about -> shows current weather of the place you want, additionally can also show a 3 day forcast
 - learning -> api integration
 - api provider -> [Weather API](https://www.weatherapi.com/)
-> [!Note]
-> if you want to use it use your own _api key_. 
+
